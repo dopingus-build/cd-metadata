@@ -12,11 +12,12 @@ Before creating a new catalog or adding/updating items in an existing one, read 
 ## Repository Layout Rules
 
 1. **Keep the repository flat.** Place every catalog JSON file directly at the repository root (e.g., `2026-japan.json`, `vocaloid-essentials.json`). Never nest catalogs inside subdirectories.
-2. **Register preset catalogs in `index.json`.** Whenever you add a new root-level catalog file that should appear in the app's **Preset Catalogs** picker, add an object to `index.json` under `catalogs` with:
+2. **Register preset catalogs in `index.json`.** `cd-hunt` resolves bare repository URLs (`https://github.com/<owner>/<repo>`) to `/main/index.json` and `/tree/<branch>` URLs to `/<branch>/index.json`. Whenever you add a new root-level catalog file that should appear in the app's **Preset Catalogs** picker, add an object to `index.json` under `catalogs` with:
    - `id`: short URL-safe slug (e.g., `"2026-japan"`)
    - `title`: display title in the picker
    - `subtitle`: concise 1-line summary (item count / scope)
-   - `file`: root filename (e.g., `"2026-japan.json"`)
+   - `file`: root filename resolved relative to the repo base URL (e.g., `"2026-japan.json"`)
+   - `url` *(optional)*: explicit catalog JSON URL overriding `file`
 
 ---
 
