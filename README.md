@@ -2,7 +2,7 @@
 
 Flat repository of JSON catalog files for the [CD Hunt](https://github.com/dopingus-build/cd-hunt) web application (`https://dopingus-build.github.io/cd-hunt/`).
 
-Each catalog JSON file sits directly at the repository root so it can be loaded directly via its raw GitHub URL or by pasting the GitHub `blob` URL into the app's Catalog Loader.
+Each catalog JSON file sits directly at the repository root and conforms to [`catalog.v1.schema.json`](https://dopingus-build.github.io/cd-hunt/schemas/catalog.v1.schema.json) (`schemaVersion: 1`). [`index.json`](./index.json) lists preset catalogs shown in the app's Catalog Loader.
 
 ## Available Catalogs
 
@@ -11,4 +11,4 @@ Each catalog JSON file sits directly at the repository root so it can be loaded 
 
 ## Schema
 
-See [`docs/METADATA.md`](https://github.com/dopingus-build/cd-hunt/blob/main/docs/METADATA.md) in the `cd-hunt` repository for the JSON schema, `requiredGroups` rules, and validation requirements.
+See [`docs/METADATA.md`](https://github.com/dopingus-build/cd-hunt/blob/main/docs/METADATA.md) and [`schemas/catalog.v1.schema.json`](https://dopingus-build.github.io/cd-hunt/schemas/catalog.v1.schema.json) in `cd-hunt`.

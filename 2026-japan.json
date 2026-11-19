@@ -1,9 +1,10 @@
 {
+  "$schema": "https://dopingus-build.github.io/cd-hunt/schemas/catalog.v1.schema.json",
+  "schemaVersion": 1,
   "meta": {
     "title": "Osaka CD Cover Album",
     "subtitle": "Nipponbashi & Namba Crate Browser (通常盤 Priority)",
     "documentTitle": "Osaka CD Cover Album & Checklist",
-    "storagePrefix": "osaka_cd",
     "searchPlaceholder": "Search English, Romaji, 日本語, anime/game, or catalog # (e.g. CPCA-1004)...",
     "digitalSectionTitle": "Digital-Only Releases (Skip Physical Hunting)",
     "digitalSectionSubtitle": "No physical CD exists in Osaka stores — excluded from the physical hunting counter."

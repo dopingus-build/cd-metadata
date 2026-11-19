@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "catalogs": [
+    {
+      "id": "2026-japan",
+      "title": "2026 Japan (Osaka) CD Hunt",
+      "subtitle": "53 physical CDs + 2 digital-only releases",
+      "file": "2026-japan.json"
+    }
+  ]
+}
