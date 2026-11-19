@@ -1,0 +1,1851 @@
+{
+  "meta": {
+    "title": "Osaka CD Cover Album",
+    "subtitle": "Nipponbashi & Namba Crate Browser (通常盤 Priority)",
+    "documentTitle": "Osaka CD Cover Album & Checklist",
+    "storagePrefix": "osaka_cd",
+    "searchPlaceholder": "Search English, Romaji, 日本語, anime/game, or catalog # (e.g. CPCA-1004)...",
+    "digitalSectionTitle": "Digital-Only Releases (Skip Physical Hunting)",
+    "digitalSectionSubtitle": "No physical CD exists in Osaka stores — excluded from the physical hunting counter."
+  },
+  "categories": [
+    {
+      "key": "All",
+      "label": "All Releases",
+      "dot": "#a1a1aa"
+    },
+    {
+      "key": "Video Game Soundtracks",
+      "label": "Video Game OSTs",
+      "dot": "#f59e0b"
+    },
+    {
+      "key": "Anime Themes & Chara",
+      "label": "Anime Themes & Chara",
+      "dot": "#f43f5e"
+    },
+    {
+      "key": "Seiyuu & Idol",
+      "label": "Seiyuu & Idol",
+      "dot": "#10b981"
+    },
+    {
+      "key": "J-Rock & J-Pop",
+      "label": "J-Rock & J-Pop",
+      "dot": "#38bdf8"
+    },
+    {
+      "key": "Digital-Only",
+      "label": "Digital-Only",
+      "dot": "#22d3ee"
+    }
+  ],
+  "items": [
+    {
+      "id": "cd-01",
+      "category": "Video Game Soundtracks",
+      "artist": "Capcom Sound Team (Yoshino Aoki, Akari Kaida)",
+      "artistJa": "カプコン・サウンドチーム (青木佳乃 / 海田明里)",
+      "title": "Breath of Fire III Original Soundtrack (2-CD Set)",
+      "titleJa": "ブレス オブ ファイア III オリジナル・サウンドトラック",
+      "regCatNo": "CPCA-1004",
+      "catalog": "CPCA-1004 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "CPCA-1004",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ブ / カプコン",
+      "filing": "ブ (Breath of Fire) / カプコン (Capcom) — VGM & Retro aisles",
+      "price": "¥3,000–¥6,000",
+      "itunesQuery": "Breath of Fire III Original Soundtrack",
+      "requiredGroups": [
+        [
+          "breath"
+        ],
+        [
+          "fire"
+        ],
+        [
+          "iii",
+          "3"
+        ]
+      ],
+      "accent": "#f59e0b"
+    },
+    {
+      "id": "cd-02",
+      "category": "Video Game Soundtracks",
+      "artist": "Capcom Sound Team (Yoshino Aoki)",
+      "artistJa": "カプコン・サウンドチーム (青木佳乃)",
+      "title": "Breath of Fire IV Original Soundtrack (2-CD Set)",
+      "titleJa": "ブレス オブ ファイア IV オリジナル・サウンドトラック",
+      "regCatNo": "CPCA-1043~4",
+      "catalog": "CPCA-1043~4 / CPCA-1044 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "CPCA-1043~4",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "CPCA-1044",
+          "label": "Disc 2 / Reissue"
+        }
+      ],
+      "kana": "ブ / カプコン",
+      "filing": "ブ (Breath of Fire) / カプコン (Capcom) — VGM & Retro aisles",
+      "price": "¥3,500–¥7,000",
+      "itunesQuery": "Breath of Fire IV Original Soundtrack",
+      "requiredGroups": [
+        [
+          "breath"
+        ],
+        [
+          "fire"
+        ],
+        [
+          "iv",
+          "4"
+        ]
+      ],
+      "accent": "#d97706"
+    },
+    {
+      "id": "cd-03",
+      "category": "Anime Themes & Chara",
+      "artist": "(K)NoW_NAME",
+      "artistJa": "(K)NoW_NAME (ノウネイム)",
+      "title": "\"Rodeo\" — Fairy gone \"BACKGROUND SONGS\" I (Insert Song Album)",
+      "titleJa": "TVアニメ『Fairy gone フェアリーゴーン』挿入歌アルバム「Fairy gone \"BACKGROUND SONGS\" I」",
+      "regCatNo": "THCA-60244",
+      "catalog": "THCA-60244 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "THCA-60244",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ノ / K",
+      "filing": "ノ (Nouneimu) / K / フェアリーゴーン (Fairy gone)",
+      "price": "¥800–¥1,400",
+      "itunesQuery": "Fairy gone BACKGROUND SONGS I (K)NoW_NAME",
+      "requiredGroups": [
+        [
+          "fairy"
+        ],
+        [
+          "gone"
+        ],
+        [
+          "background",
+          "rodeo",
+          "i"
+        ]
+      ],
+      "accent": "#e11d48"
+    },
+    {
+      "id": "cd-04",
+      "category": "Anime Themes & Chara",
+      "artist": "(K)NoW_NAME",
+      "artistJa": "(K)NoW_NAME (ノウネイム)",
+      "title": "\"KNOCK on the CORE / Ash-like Snow\" (Fairy gone S1 OP & ED)",
+      "titleJa": "KNOCK on the CORE / Ash-like Snow (TVアニメ『Fairy gone』OP＆ED)",
+      "regCatNo": "THCS-60240",
+      "catalog": "THCS-60240 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "THCS-60240",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ノ / K",
+      "filing": "ノ (Nouneimu) / K / フェアリーゴーン (Fairy gone)",
+      "price": "¥500–¥1,100",
+      "itunesQuery": "KNOCK on the CORE (K)NoW_NAME",
+      "requiredGroups": [
+        [
+          "knock",
+          "ash-like"
+        ],
+        [
+          "core",
+          "snow"
+        ]
+      ],
+      "accent": "#be123c"
+    },
+    {
+      "id": "cd-05",
+      "category": "Anime Themes & Chara",
+      "artist": "sekai",
+      "artistJa": "sekai (セカイ)",
+      "title": "\"Spira\" (Demon Lord 2099 ED)",
+      "titleJa": "スピラ (TVアニメ『魔王2099』エンディングテーマ)",
+      "regCatNo": "SRCL-13040",
+      "catalog": "SRCL-13040 (通常盤) / SRCL-13041~42 (期間生産限定)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-13040",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-13041",
+          "label": "期間生産限定 Anime"
+        }
+      ],
+      "kana": "セ / S",
+      "filing": "セ (sekai) / S / 魔王2099 (Maou 2099)",
+      "price": "¥400–¥800 (Reg) / ¥800–¥1,400 (Ltd)",
+      "itunesQuery": "スピラ sekai",
+      "requiredGroups": [
+        [
+          "スピラ",
+          "spira"
+        ],
+        [
+          "sekai"
+        ]
+      ],
+      "accent": "#9333ea"
+    },
+    {
+      "id": "cd-06",
+      "category": "Anime Themes & Chara",
+      "artist": "Shiyui",
+      "artistJa": "シユイ",
+      "title": "\"Hollow\" (Demon Lord 2099 OP)",
+      "titleJa": "ホロウ (TVアニメ『魔王2099』オープニングテーマ)",
+      "regCatNo": "AICL-4670",
+      "catalog": "AICL-4670~4671 (期間生産限定盤)",
+      "mbEditions": [
+        {
+          "catno": "AICL-4670",
+          "label": "期間生産限定盤"
+        }
+      ],
+      "kana": "シ",
+      "filing": "シ (Shiyui) / 魔王2099 (Maou 2099)",
+      "price": "¥2,200–¥2,600",
+      "itunesQuery": "ホロウ シユイ",
+      "requiredGroups": [
+        [
+          "ホロウ",
+          "hollow"
+        ],
+        [
+          "シユイ",
+          "shiyui"
+        ]
+      ],
+      "accent": "#7c3aed"
+    },
+    {
+      "id": "cd-07",
+      "category": "Anime Themes & Chara",
+      "artist": "ChouCho",
+      "artistJa": "ちょうちょ / ChouCho",
+      "title": "\"Harmonia\" (Trails in the Sky OVA ED)",
+      "titleJa": "ハルモニア (OVA『英雄伝説 空の軌跡 THE ANIMATION』ED)",
+      "regCatNo": "LACM-4887",
+      "catalog": "LACM-4887 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "LACM-4887",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "チ / C",
+      "filing": "チ (ChouCho) / C / 空の軌跡 (Sora no Kiseki)",
+      "price": "¥200–¥550",
+      "itunesQuery": "ハルモニア ChouCho",
+      "requiredGroups": [
+        [
+          "ハルモニア",
+          "harmonia"
+        ],
+        [
+          "choucho",
+          "ちょうちょ"
+        ]
+      ],
+      "accent": "#0ea5e9"
+    },
+    {
+      "id": "cd-08",
+      "category": "Anime Themes & Chara",
+      "artist": "ChouCho",
+      "artistJa": "ChouCho (ちょうちょ)",
+      "title": "\"transient blue\" (Limited Acoustic Single)",
+      "titleJa": "transient blue (会場・通販限定シングル)",
+      "regCatNo": "LZM-2118",
+      "catalog": "LZM-2118 (会場・通販限定)",
+      "mbEditions": [
+        {
+          "catno": "LZM-2118",
+          "label": "限定盤 Limited"
+        }
+      ],
+      "kana": "チ / C",
+      "filing": "チ (ChouCho) / C (Suruga-ya & Mandarake)",
+      "price": "¥800–¥1,500",
+      "itunesQuery": "transient blue ChouCho",
+      "requiredGroups": [
+        [
+          "transient"
+        ],
+        [
+          "blue"
+        ]
+      ],
+      "accent": "#0284c7"
+    },
+    {
+      "id": "cd-09",
+      "category": "Anime Themes & Chara",
+      "artist": "Who-ya Extended",
+      "artistJa": "Who-ya Extended (フーヤ・エクステンデッド)",
+      "title": "A Shout Of Triumph (Build Divide -#FFFFFF- ED EP)",
+      "titleJa": "A Shout Of Triumph (TVアニメ『ビルディバイド -#FFFFFF-』EDテーマEP)",
+      "regCatNo": "SECL-2772",
+      "catalog": "SECL-2772 (通常盤) / SECL-2768~9 (初回)",
+      "mbEditions": [
+        {
+          "catno": "SECL-2772",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SECL-2768",
+          "label": "初回盤 Limited"
+        },
+        {
+          "catno": "SECL-2770",
+          "label": "期間生産限定 Anime"
+        }
+      ],
+      "kana": "フ / W",
+      "filing": "フ (Fūya) / W / ビルディバイド (Build Divide)",
+      "price": "¥300–¥600 (Reg) / ¥500–¥1,100 (Ltd)",
+      "itunesQuery": "A Shout Of Triumph Who-ya Extended",
+      "requiredGroups": [
+        [
+          "shout"
+        ],
+        [
+          "triumph"
+        ]
+      ],
+      "accent": "#dc2626"
+    },
+    {
+      "id": "cd-10",
+      "category": "Anime Themes & Chara",
+      "artist": "FictionJunction YUUKA",
+      "artistJa": "FictionJunction YUUKA (梶浦由記 / 南里侑香)",
+      "title": "\"romanesque\" (El Cazador de la Bruja ED)",
+      "titleJa": "romanesque (TVアニメ『エル・カザド』エンディングテーマ)",
+      "regCatNo": "VICL-36363",
+      "catalog": "VICL-36363 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "VICL-36363",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "フ / F / カ",
+      "filing": "フ (FictionJunction) / F / カ (Kajiura Yuki)",
+      "price": "¥250–¥550",
+      "itunesQuery": "romanesque FictionJunction YUUKA",
+      "requiredGroups": [
+        [
+          "romanesque"
+        ]
+      ],
+      "accent": "#9f1239"
+    },
+    {
+      "id": "cd-11",
+      "category": "Anime Themes & Chara",
+      "artist": "SawanoHiroyuki[nZk]",
+      "artistJa": "澤野弘之 / SawanoHiroyuki[nZk]",
+      "title": "2V-ALK (2nd Album)",
+      "titleJa": "2V-ALK (ウォーク / 2ndアルバム)",
+      "regCatNo": "VVCL-1100",
+      "catalog": "VVCL-1100 (通常盤) / VVCL-1098~9 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-1100",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-1098",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "サ / S",
+      "filing": "サ (Sawano Hiroyuki) / S",
+      "price": "¥800–¥1,400 (Reg) / ¥1,500–¥2,500 (Ltd)",
+      "itunesQuery": "2V-ALK SawanoHiroyuki[nZk]",
+      "requiredGroups": [
+        [
+          "2v-alk"
+        ]
+      ],
+      "accent": "#2563eb"
+    },
+    {
+      "id": "cd-11b",
+      "category": "Anime Themes & Chara",
+      "artist": "SawanoHiroyuki[nZk]:LiSA",
+      "artistJa": "澤野弘之 / SawanoHiroyuki[nZk]:LiSA",
+      "title": "\"narrative / NOISEofRAIN\" (Mobile Suit Gundam NT Theme; Double A-side w/ Takanori Nishikawa)",
+      "titleJa": "narrative / NOISEofRAIN (『機動戦士ガンダムNT』主題歌 / 西川貴教)",
+      "regCatNo": "VVCL-1362",
+      "catalog": "VVCL-1362 (通常盤) / VVCL-1363 (期間生産限定) / VVCL-1360~1 (初回)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-1362",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-1363",
+          "label": "期間生産限定 Anime"
+        },
+        {
+          "catno": "VVCL-1360",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "サ / リ / S",
+      "filing": "サ (Sa, Sawano Hiroyuki) / S / リ (Ri, LiSA) / 機動戦士ガンダムNT",
+      "price": "¥400–¥1,200",
+      "itunesQuery": "narrative NOISEofRAIN SawanoHiroyuki LiSA",
+      "requiredGroups": [
+        [
+          "narrative"
+        ],
+        [
+          "sawano",
+          "lisa"
+        ]
+      ],
+      "accent": "#0284c7"
+    },
+    {
+      "id": "cd-12",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "Extra terrestrial Biological Entities (1st Album)",
+      "titleJa": "Extra terrestrial Biological Entities (1stアルバム)",
+      "regCatNo": "SRCL-8093",
+      "catalog": "SRCL-8093 (通常盤) / SRCL-8091~2 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-8093",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-8091",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥700–¥1,500 (Reg) / ¥1,500–¥2,500 (Ltd)",
+      "itunesQuery": "Extra terrestrial Biological Entities EGOIST",
+      "requiredGroups": [
+        [
+          "terrestrial"
+        ],
+        [
+          "biological"
+        ]
+      ],
+      "accent": "#e11d48"
+    },
+    {
+      "id": "cd-13",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "GREATEST HITS 2011-2017 \"ALTER EGO\"",
+      "titleJa": "GREATEST HITS 2011-2017 \"ALTER EGO\" (ベストアルバム)",
+      "regCatNo": "VVCL-1155",
+      "catalog": "VVCL-1155 (通常盤) / VVCL-1151~4 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-1155",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-1151",
+          "label": "初回盤A Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥1,200–¥2,000 (Reg) / ¥2,000–¥3,500 (Ltd)",
+      "itunesQuery": "ALTER EGO EGOIST",
+      "requiredGroups": [
+        [
+          "alter"
+        ],
+        [
+          "ego"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#f43f5e"
+    },
+    {
+      "id": "cd-14",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "BANG!!! (10th Anniv. EP)",
+      "titleJa": "BANG!!! (10周年記念EP)",
+      "regCatNo": "VVCL-1944",
+      "catalog": "VVCL-1944 (通常盤) / VVCL-1942~3 (初回) / VVCL-1945 (期間)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-1944",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-1945",
+          "label": "期間生産限定 Anime"
+        },
+        {
+          "catno": "VVCL-1942",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥500–¥900 (Reg) / ¥1,500–¥2,500 (Ltd)",
+      "itunesQuery": "BANG!!! EGOIST",
+      "requiredGroups": [
+        [
+          "bang"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#fb7185"
+    },
+    {
+      "id": "cd-15",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"Departures ~あなたにおくるアイの歌~\" (Guilty Crown ED1)",
+      "titleJa": "Departures ～あなたにおくるアイの歌～ (ギルティクラウン ED1)",
+      "regCatNo": "SVWC-7798",
+      "catalog": "SVWC-7798 (通常盤) / SVWC-7796 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SVWC-7798",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SVWC-7796",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥200–¥800",
+      "itunesQuery": "Departures あなたにおくるアイの歌 EGOIST",
+      "requiredGroups": [
+        [
+          "departures"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#e11d48"
+    },
+    {
+      "id": "cd-16",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"The Everlasting Guilty Crown\" (Guilty Crown OP2)",
+      "titleJa": "The Everlasting Guilty Crown (ギルティクラウン OP2)",
+      "regCatNo": "SVWC-7834",
+      "catalog": "SVWC-7834 (通常盤) / SVWC-7832 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SVWC-7834",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SVWC-7832",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥200–¥800",
+      "itunesQuery": "The Everlasting Guilty Crown EGOIST",
+      "requiredGroups": [
+        [
+          "everlasting"
+        ],
+        [
+          "guilty"
+        ],
+        [
+          "crown"
+        ]
+      ],
+      "accent": "#be123c"
+    },
+    {
+      "id": "cd-17",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"名前のない怪物\" (Namae no Nai Kaibutsu) (PSYCHO-PASS ED1)",
+      "titleJa": "名前のない怪物 (TVアニメ『PSYCHO-PASS サイコパス』ED1)",
+      "regCatNo": "SRCL-8149",
+      "catalog": "SRCL-8149 (通常盤) / SRCL-8147 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-8149",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-8147",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥200–¥800",
+      "itunesQuery": "名前のない怪物 EGOIST",
+      "requiredGroups": [
+        [
+          "名前のない怪物"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#e11d48"
+    },
+    {
+      "id": "cd-18",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"All Alone With You\" (PSYCHO-PASS ED2)",
+      "titleJa": "All Alone With You (TVアニメ『PSYCHO-PASS サイコパス』ED2)",
+      "regCatNo": "SRCL-8240",
+      "catalog": "SRCL-8240 (通常盤) / SRCL-8238 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-8240",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-8238",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥200–¥800",
+      "itunesQuery": "All Alone With You EGOIST",
+      "requiredGroups": [
+        [
+          "all"
+        ],
+        [
+          "alone"
+        ],
+        [
+          "with"
+        ],
+        [
+          "you"
+        ]
+      ],
+      "accent": "#f43f5e"
+    },
+    {
+      "id": "cd-19",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"Fallen\" (PSYCHO-PASS 2 ED)",
+      "titleJa": "Fallen (TVアニメ『PSYCHO-PASS サイコパス 2』EDテーマ)",
+      "regCatNo": "SRCL-8639",
+      "catalog": "SRCL-8639 (通常盤) / SRCL-8637 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-8639",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-8637",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥200–¥800",
+      "itunesQuery": "Fallen EGOIST",
+      "requiredGroups": [
+        [
+          "fallen"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#be123c"
+    },
+    {
+      "id": "cd-20",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"リローデッド\" (Reloaded) (Project Itoh Theme)",
+      "titleJa": "リローデッド (『虐殺器官』『ハーモニー』『屍者の帝国』主題歌)",
+      "regCatNo": "SRCL-8927",
+      "catalog": "SRCL-8927 (通常盤) / SRCL-8925 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-8927",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-8925",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥200–¥800",
+      "itunesQuery": "リローデッド EGOIST",
+      "requiredGroups": [
+        [
+          "リローデッド",
+          "reloaded"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#e11d48"
+    },
+    {
+      "id": "cd-21",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"KABANERI OF THE IRON FORTRESS\" (Kabaneri OP)",
+      "titleJa": "KABANERI OF THE IRON FORTRESS (『甲鉄城のカバネリ』OP)",
+      "regCatNo": "SRCL-9070",
+      "catalog": "SRCL-9070 (通常盤) / SRCL-9068 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-9070",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-9068",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥200–¥800",
+      "itunesQuery": "KABANERI OF THE IRON FORTRESS EGOIST",
+      "requiredGroups": [
+        [
+          "kabaneri"
+        ],
+        [
+          "fortress"
+        ]
+      ],
+      "accent": "#f43f5e"
+    },
+    {
+      "id": "cd-22",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"英雄 運命の詩\" (Eiyuu Unmei no Uta) (Fate/Apocrypha OP1)",
+      "titleJa": "英雄 運命の詩 (TVアニメ『Fate/Apocrypha』OP1)",
+      "regCatNo": "VVCL-1080",
+      "catalog": "VVCL-1080 (通常盤) / VVCL-1078~9 (初回) / VVCL-1081~2 (期間)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-1080",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-1081",
+          "label": "期間生産限定 Anime"
+        },
+        {
+          "catno": "VVCL-1078",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥300–¥1,000",
+      "itunesQuery": "英雄 運命の詩 EGOIST",
+      "requiredGroups": [
+        [
+          "英雄"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#be123c"
+    },
+    {
+      "id": "cd-23",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"咲かせや咲かせ\" (Sakase ya Sakase) (Kabaneri: Unato)",
+      "titleJa": "咲かせや咲かせ (劇場中編アニメーション『甲鉄城のカバネリ 海門決戦』主題歌)",
+      "regCatNo": "VVCL-1442",
+      "catalog": "VVCL-1442 (通常盤) / VVCL-1440~1 (初回) / VVCL-1443~5 (期間)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-1442",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-1443",
+          "label": "期間生産限定 Anime"
+        },
+        {
+          "catno": "VVCL-1440",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥300–¥1,000",
+      "itunesQuery": "咲かせや咲かせ EGOIST",
+      "requiredGroups": [
+        [
+          "咲かせや咲かせ"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#e11d48"
+    },
+    {
+      "id": "cd-24",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"Gold\" (Build Divide -#FFFFFF- OP)",
+      "titleJa": "Gold (TVアニメ『ビルディバイド -#FFFFFF-』OPテーマ)",
+      "regCatNo": "VVCL-2065",
+      "catalog": "VVCL-2065 (通常盤) / VVCL-2063~4 (初回) / VVCL-2066~8 (期間)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-2065",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-2066",
+          "label": "期間生産限定 Anime"
+        },
+        {
+          "catno": "VVCL-2063",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥300–¥1,000",
+      "itunesQuery": "Gold EGOIST",
+      "requiredGroups": [
+        [
+          "gold"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#eab308"
+    },
+    {
+      "id": "cd-25",
+      "category": "Anime Themes & Chara",
+      "artist": "EGOIST",
+      "artistJa": "EGOIST (エゴイスト)",
+      "title": "\"当事者\" (Toujisha) (PSYCHO-PASS PROVIDENCE ED)",
+      "titleJa": "当事者 (『劇場版 PSYCHO-PASS サイコパス PROVIDENCE』ED)",
+      "regCatNo": "VVCL-2242",
+      "catalog": "VVCL-2242 (通常盤) / VVCL-2240~1 (初回) / VVCL-2243~4 (期間)",
+      "mbEditions": [
+        {
+          "catno": "VVCL-2242",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VVCL-2243",
+          "label": "期間生産限定 Anime"
+        },
+        {
+          "catno": "VVCL-2240",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "エ / E",
+      "filing": "エ (EGOIST) / E",
+      "price": "¥300–¥1,000",
+      "itunesQuery": "当事者 EGOIST",
+      "requiredGroups": [
+        [
+          "当事者"
+        ],
+        [
+          "egoist"
+        ]
+      ],
+      "accent": "#be123c"
+    },
+    {
+      "id": "cd-26",
+      "category": "Anime Themes & Chara",
+      "artist": "Princession Orchestra (Orcheria)",
+      "artistJa": "プリンセッション・オーケストラ / オルケリア",
+      "title": "PRINCESS RESONANCE (1st Album)",
+      "titleJa": "オルケリア 1st ALBUM「PRINCESS RESONANCE」",
+      "regCatNo": "KICA-2647",
+      "catalog": "KICA-2647 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "KICA-2647",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "プ / オ",
+      "filing": "プ (Princession Orchestra) / オ (Orcheria)",
+      "price": "¥1,600–¥2,400",
+      "itunesQuery": "PRINCESS RESONANCE オルケリア",
+      "requiredGroups": [
+        [
+          "princess"
+        ],
+        [
+          "resonance"
+        ]
+      ],
+      "accent": "#3b82f6"
+    },
+    {
+      "id": "cd-27",
+      "category": "Anime Themes & Chara",
+      "artist": "Princession Orchestra (Enemy Side)",
+      "artistJa": "プリンセッション・オーケストラ (バンド・スナッチ / 花の騎士)",
+      "title": "SAVE THE WORLD (Enemy Side Album)",
+      "titleJa": "ENEMY SIDE ALBUM「SAVE THE WORLD」",
+      "regCatNo": "KICA-2648",
+      "catalog": "KICA-2648 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "KICA-2648",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "プ / オ",
+      "filing": "プ (Princession Orchestra) / オ (Orcheria)",
+      "price": "¥1,500–¥2,200",
+      "itunesQuery": "SAVE THE WORLD プリンセッション・オーケストラ",
+      "requiredGroups": [
+        [
+          "save"
+        ],
+        [
+          "world"
+        ],
+        [
+          "プリンセッション",
+          "princession"
+        ]
+      ],
+      "accent": "#dc2626"
+    },
+    {
+      "id": "cd-28",
+      "category": "Anime Themes & Chara",
+      "artist": "Princession Orchestra (Orcheria)",
+      "artistJa": "プリンセッション・オーケストラ / オルケリア",
+      "title": "ゼッタイ歌姫宣言ッ！ / FUTURE SESSION (OP/ED Singles)",
+      "titleJa": "ゼッタイ歌姫宣言ッ！ / 君とつなぐオーケストラ ＆ FUTURE SESSION",
+      "regCatNo": "KICM-3386",
+      "catalog": "KICM-3386 (OP通常盤) / KICM-3393 (ED通常盤)",
+      "mbEditions": [
+        {
+          "catno": "KICM-3386",
+          "label": "通常盤 OP1"
+        },
+        {
+          "catno": "KICM-3393",
+          "label": "通常盤 OP2/ED"
+        }
+      ],
+      "kana": "プ / オ",
+      "filing": "プ (Princession Orchestra) / オ (Orcheria)",
+      "price": "¥300–¥700 each",
+      "itunesQuery": "ゼッタイ歌姫宣言ッ オルケリア",
+      "requiredGroups": [
+        [
+          "歌姫宣言",
+          "future session"
+        ]
+      ],
+      "accent": "#60a5fa"
+    },
+    {
+      "id": "cd-29",
+      "category": "Anime Themes & Chara",
+      "artist": "Princession Orchestra",
+      "artistJa": "プリンセッション・オーケストラ",
+      "title": "Character Singles (Ripple, Zeal, Meteor, Viola x Neige)",
+      "titleJa": "キャラクターソングシングル群 (リップル / ジール / ミーティア / ヴィオラ×ネージュ)",
+      "regCatNo": "KICM-3387",
+      "catalog": "KICM-3387~3397 (通常盤シングル群)",
+      "mbEditions": [
+        {
+          "catno": "KICM-3387",
+          "label": "Ripple 通常盤"
+        },
+        {
+          "catno": "KICM-3388",
+          "label": "Zeal 通常盤"
+        },
+        {
+          "catno": "KICM-3389",
+          "label": "Meteor 通常盤"
+        }
+      ],
+      "kana": "プ / A / K / T",
+      "filing": "プ (Princession Orchestra) or VA (A / K / T)",
+      "price": "¥300–¥800 each",
+      "itunesQuery": "プリンセッション・オーケストラ リップル",
+      "requiredGroups": [
+        [
+          "プリンセッション"
+        ],
+        [
+          "リップル",
+          "ジール",
+          "ミーティア",
+          "ヴィオラ"
+        ]
+      ],
+      "accent": "#818cf8"
+    },
+    {
+      "id": "cd-30",
+      "category": "Anime Themes & Chara",
+      "artist": "Cure Zukyoon (Yoshino Nanjo) & Cure Kiss (Miharu Hanai)",
+      "artistJa": "キュアズキューン(南條愛乃)＆キュアキッス(花井美春)",
+      "title": "\"Awakening Harmony\" (You and Idol Precure♪)",
+      "titleJa": "キミとアイドルプリキュア♪ ボーカルアルバム / ボーカルベスト (Awakening Harmony 収録)",
+      "regCatNo": "MJSA-01422",
+      "catalog": "MJSA-01422 (通常盤) / MJSA-01424~5 (ボーカルベスト)",
+      "mbEditions": [
+        {
+          "catno": "MJSA-01422",
+          "label": "通常盤 Vocal Album"
+        },
+        {
+          "catno": "MJSA-01424",
+          "label": "Vocal Best"
+        }
+      ],
+      "kana": "プ / キ",
+      "filing": "プ (Precure) / キ (Kimi to Idol Precure)",
+      "price": "¥1,800–¥3,000",
+      "itunesQuery": "キミとアイドルプリキュア ボーカルアルバム",
+      "requiredGroups": [
+        [
+          "アイドルプリキュア"
+        ],
+        [
+          "ボーカル"
+        ]
+      ],
+      "accent": "#ec4899"
+    },
+    {
+      "id": "cd-31",
+      "category": "Anime Themes & Chara",
+      "artist": "Mia REGINA",
+      "artistJa": "Mia REGINA (ミア・レジーナ)",
+      "title": "\"月海の揺り籠\" (Tsukiumi no Yurikago) (Aquatope ED1)",
+      "titleJa": "月海の揺り籠 (TVアニメ『白い砂のアクアトープ』ED1)",
+      "regCatNo": "LACM-24156",
+      "catalog": "LACM-24156 (アニメ盤) / LACM-24155 (アーティスト盤)",
+      "mbEditions": [
+        {
+          "catno": "LACM-24156",
+          "label": "アニメ盤 (通常)"
+        },
+        {
+          "catno": "LACM-24155",
+          "label": "アーティスト盤"
+        }
+      ],
+      "kana": "ミ / M",
+      "filing": "ミ (Mia REGINA) / M / 白い砂のアクアトープ",
+      "price": "¥300–¥700 (Anime) / ¥600–¥1,000 (Artist)",
+      "itunesQuery": "月海の揺り籠 Mia REGINA",
+      "requiredGroups": [
+        [
+          "月海の揺り籠"
+        ]
+      ],
+      "accent": "#06b6d4"
+    },
+    {
+      "id": "cd-32",
+      "category": "Anime Themes & Chara",
+      "artist": "Void_Chords feat. LIO",
+      "artistJa": "Void_Chords feat. LIO (高橋諒)",
+      "title": "\"FLARE\" (Arifureta S1 OP)",
+      "titleJa": "FLARE (TVアニメ『ありふれた職業で世界最強』OP)",
+      "regCatNo": "LACM-14917",
+      "catalog": "LACM-14917 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "LACM-14917",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ボ / V",
+      "filing": "ボ (Boido Kōzu) / V / ありふれた職業で世界最強",
+      "price": "¥300–¥700",
+      "itunesQuery": "FLARE Void_Chords",
+      "requiredGroups": [
+        [
+          "flare"
+        ],
+        [
+          "void_chords",
+          "void"
+        ]
+      ],
+      "accent": "#f97316"
+    },
+    {
+      "id": "cd-33",
+      "category": "Anime Themes & Chara",
+      "artist": "10年黒組 / Miho Arakawa",
+      "artistJa": "10年黒組 / 荒川美穂",
+      "title": "\"イノチノカラクリ\" (Akuma no Riddle ED Collection 黒組曲・急)",
+      "titleJa": "イノチノカラクリ — TVアニメ『悪魔のリドル』ED集「黒組曲・急」",
+      "regCatNo": "PCCG-01403",
+      "catalog": "PCCG-01403 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "PCCG-01403",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ア / シ / ク",
+      "filing": "ア (Akuma no Riddle) / シ (10-nen Kurogumi) / ク (Kuro Kumikyoku)",
+      "price": "¥220–¥650",
+      "itunesQuery": "黒組曲・急 10年黒組",
+      "requiredGroups": [
+        [
+          "黒組曲"
+        ]
+      ],
+      "accent": "#dc2626"
+    },
+    {
+      "id": "cd-34",
+      "category": "Anime Themes & Chara",
+      "artist": "Aqours",
+      "artistJa": "Aqours (アクア)",
+      "title": "\"幻日ミステリウム\" (Genjitsu Mysterium) (Yohane the Parhelion OP)",
+      "titleJa": "幻日ミステリウム (TVアニメ『幻日のヨハネ』OPテーマ)",
+      "regCatNo": "LACM-24440",
+      "catalog": "LACM-24440 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "LACM-24440",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ア / ラ",
+      "filing": "ア (Aqours) / ラ (Love Live!) / 幻日のヨハネ",
+      "price": "¥100–¥400",
+      "itunesQuery": "幻日ミステリウム Aqours",
+      "requiredGroups": [
+        [
+          "幻日ミステリウム"
+        ]
+      ],
+      "accent": "#0ea5e9"
+    },
+    {
+      "id": "cd-35",
+      "category": "Anime Themes & Chara",
+      "artist": "Parabola",
+      "artistJa": "Parabola (パラボラ / うたごえはミルフィーユ)",
+      "title": "\"Risky Business\" (Harmony of Mille-Feuille 2nd Single)",
+      "titleJa": "Risky Business (『うたごえはミルフィーユ』Parabola 2ndシングル)",
+      "regCatNo": "PCCG-02469",
+      "catalog": "PCCG-02469 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "PCCG-02469",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "パ / ウ / P",
+      "filing": "パ (Parabola) / ウ (Utagoe wa Mille-Feuille) / P",
+      "price": "¥600–¥1,100",
+      "itunesQuery": "Risky Business Parabola",
+      "requiredGroups": [
+        [
+          "risky"
+        ],
+        [
+          "business"
+        ],
+        [
+          "parabola"
+        ]
+      ],
+      "accent": "#8b5cf6"
+    },
+    {
+      "id": "cd-36",
+      "category": "Anime Themes & Chara",
+      "artist": "Ceui",
+      "artistJa": "Ceui (セイ)",
+      "title": "\"espacio\" (Sora o Kakeru Shoujo ED)",
+      "titleJa": "espacio (TVアニメ『宇宙をかける少女』エンディングテーマ)",
+      "regCatNo": "LACM-4610",
+      "catalog": "LACM-4610 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "LACM-4610",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "セ / C",
+      "filing": "セ (Ceui) / C",
+      "price": "¥300–¥800",
+      "itunesQuery": "espacio Ceui",
+      "requiredGroups": [
+        [
+          "espacio"
+        ],
+        [
+          "ceui"
+        ]
+      ],
+      "accent": "#14b8a6"
+    },
+    {
+      "id": "cd-37",
+      "category": "Anime Themes & Chara",
+      "artist": "NOMELON NOLEMON",
+      "artistJa": "NOMELON NOLEMON (ノーメロン・ノーレモン)",
+      "title": "\"ユラリユレル\" (Grow Up Show OP + DAYS! cover)",
+      "titleJa": "ユラリユレル (TVアニメ『グロウアップショウ』OP / DAYS! カバー収録)",
+      "regCatNo": "SRCL-13761",
+      "catalog": "SRCL-13761~2 (期間生産限定盤)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-13761",
+          "label": "期間生産限定盤"
+        }
+      ],
+      "kana": "ノ",
+      "filing": "ノ (NOMELON NOLEMON) / グロウアップショウ (Grow Up Show)",
+      "price": "¥1,300–¥1,600",
+      "itunesQuery": "ユラリユレル NOMELON NOLEMON",
+      "requiredGroups": [
+        [
+          "ユラリユレル"
+        ],
+        [
+          "nomelon"
+        ]
+      ],
+      "accent": "#eab308"
+    },
+    {
+      "id": "cd-38",
+      "category": "Anime Themes & Chara",
+      "artist": "Aooo",
+      "artistJa": "Aooo (アウー)",
+      "title": "\"DAYS!\" (Grow Up Show ED + ユラリユレル cover)",
+      "titleJa": "DAYS! (TVアニメ『グロウアップショウ』ED / ユラリユレル カバー収録)",
+      "regCatNo": "SRCL-13763",
+      "catalog": "SRCL-13763~4 (期間生産限定盤)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-13763",
+          "label": "期間生産限定盤"
+        }
+      ],
+      "kana": "ア",
+      "filing": "ア (Aooo) / グロウアップショウ (Grow Up Show)",
+      "price": "¥1,300–¥1,600",
+      "itunesQuery": "DAYS! Aooo",
+      "requiredGroups": [
+        [
+          "days"
+        ],
+        [
+          "aooo"
+        ]
+      ],
+      "accent": "#ef4444"
+    },
+    {
+      "id": "cd-39",
+      "category": "Anime Themes & Chara",
+      "artist": "yama",
+      "artistJa": "yama (ヤマ)",
+      "title": "\"slash\" (Gundam: The Witch from Mercury S2 OP)",
+      "titleJa": "slash (TVアニメ『機動戦士ガンダム 水星の魔女』Season2 OP)",
+      "regCatNo": "SRCL-12539",
+      "catalog": "SRCL-12539 (通常盤) / SRCL-12540~41 (期間) / SRCL-12536~38 (初回)",
+      "mbEditions": [
+        {
+          "catno": "SRCL-12539",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "SRCL-12540",
+          "label": "期間生産限定 Anime"
+        },
+        {
+          "catno": "SRCL-12536",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "ヤ / Y",
+      "filing": "ヤ (yama) / Y / ガンダム (Gundam)",
+      "price": "¥300–¥700 (Reg) / ¥800–¥1,400 (Ltd)",
+      "itunesQuery": "slash yama",
+      "requiredGroups": [
+        [
+          "slash"
+        ],
+        [
+          "yama"
+        ]
+      ],
+      "accent": "#3b82f6"
+    },
+    {
+      "id": "cd-40",
+      "category": "Anime Themes & Chara",
+      "artist": "Lapis Re:LiGHTs",
+      "artistJa": "ラピスリライツ (Lapis Re:LiGHTs)",
+      "title": "START the MAGIC HOUR (1st Album)",
+      "titleJa": "START the MAGIC HOUR (1stアルバム / ラピスリライツ)",
+      "regCatNo": "VICL-65318",
+      "catalog": "VICL-65318 (通常盤) / VIZL-1723 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "VICL-65318",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VIZL-1723",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "ラ",
+      "filing": "ラ (Lapis Re:LiGHTs)",
+      "price": "¥400–¥800 (Reg) / ¥1,000–¥1,800 (Ltd)",
+      "itunesQuery": "START the MAGIC HOUR ラピスリライツ",
+      "requiredGroups": [
+        [
+          "magic"
+        ],
+        [
+          "hour"
+        ]
+      ],
+      "accent": "#ec4899"
+    },
+    {
+      "id": "cd-41",
+      "category": "Anime Themes & Chara",
+      "artist": "Lapis Re:LiGHTs",
+      "artistJa": "ラピスリライツ (Lapis Re:LiGHTs)",
+      "title": "SKY FULL of MAGIC (2nd Album)",
+      "titleJa": "SKY FULL of MAGIC (2ndアルバム / ラピスリライツ)",
+      "regCatNo": "VICL-65454",
+      "catalog": "VICL-65454 (通常盤) / VIZL-1834 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "VICL-65454",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VIZL-1834",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "ラ",
+      "filing": "ラ (Lapis Re:LiGHTs)",
+      "price": "¥500–¥1,000 (Reg) / ¥1,800–¥3,000 (Ltd)",
+      "itunesQuery": "SKY FULL of MAGIC ラピスリライツ",
+      "requiredGroups": [
+        [
+          "sky"
+        ],
+        [
+          "full"
+        ],
+        [
+          "magic"
+        ]
+      ],
+      "accent": "#a855f7"
+    },
+    {
+      "id": "cd-42",
+      "category": "Anime Themes & Chara",
+      "artist": "Lapis Re:LiGHTs",
+      "artistJa": "ラピスリライツ (Lapis Re:LiGHTs)",
+      "title": "Everlasting Magic (3rd Album)",
+      "titleJa": "Everlasting Magic (3rdアルバム / ラピスリライツ)",
+      "regCatNo": "VICL-65743",
+      "catalog": "VICL-65743 (通常盤) / VIZL-2121 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "VICL-65743",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "VIZL-2121",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "ラ",
+      "filing": "ラ (Lapis Re:LiGHTs)",
+      "price": "¥800–¥1,500 (Reg) / ¥2,500–¥4,500 (Ltd)",
+      "itunesQuery": "Everlasting Magic ラピスリライツ",
+      "requiredGroups": [
+        [
+          "everlasting"
+        ],
+        [
+          "magic"
+        ]
+      ],
+      "accent": "#6366f1"
+    },
+    {
+      "id": "cd-43",
+      "category": "Anime Themes & Chara",
+      "artist": "Lapis Re:LiGHTs / Ray",
+      "artistJa": "ラピスリライツ / Ray (レイ)",
+      "title": "Singles (私たちのSTARTRAIL / Beautiful World / Sound of the Bell)",
+      "titleJa": "シングル群 (私たちのSTARTRAIL / Beautiful World / Sound of the Bell)",
+      "regCatNo": "VICL-37548",
+      "catalog": "VICL-37548 / VICL-37570 / VICL-37626 (通常盤シングル)",
+      "mbEditions": [
+        {
+          "catno": "VICL-37548",
+          "label": "STARTRAIL 通常盤"
+        },
+        {
+          "catno": "VICL-37570",
+          "label": "Beautiful World 通常盤"
+        },
+        {
+          "catno": "VICL-37626",
+          "label": "Sound of the Bell 通常盤"
+        }
+      ],
+      "kana": "ラ / レ",
+      "filing": "ラ (Lapis Re:LiGHTs) / レ (Ray)",
+      "price": "¥200–¥1,000 each",
+      "itunesQuery": "私たちのSTARTRAIL ラピスリライツ",
+      "requiredGroups": [
+        [
+          "startrail"
+        ]
+      ],
+      "accent": "#f472b6"
+    },
+    {
+      "id": "cd-44",
+      "category": "Anime Themes & Chara",
+      "artist": "Tatsuya Kato",
+      "artistJa": "加藤達也 (終末なにしてますか？)",
+      "title": "SukaSuka OST — 青い記憶 (Aoi Kioku) (WorldEnd 2-CD Set)",
+      "titleJa": "TVアニメ『終末なにしてますか？忙しいですか？救ってもらっていいですか？』OST「青い記憶」",
+      "regCatNo": "LACA-9522~9523",
+      "catalog": "LACA-9522~9523 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "LACA-9522~9523",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "シ / ス",
+      "filing": "シ (Shuumatsu...) / ス (SukaSuka) — Anime OST aisle",
+      "price": "¥2,200–¥3,000",
+      "itunesQuery": "終末なにしてますか 青い記憶",
+      "requiredGroups": [
+        [
+          "青い記憶"
+        ]
+      ],
+      "accent": "#8b5cf6"
+    },
+    {
+      "id": "cd-45",
+      "category": "Seiyuu & Idol",
+      "artist": "Rico Sasaki",
+      "artistJa": "佐々木李子 (ササキリコ)",
+      "title": "スタート! (Start!) (Artist Editions ONLY: AKCY-58074/B or AKCY-58075; Skip AKCY-58073)",
+      "titleJa": "スタート! (アーティスト盤DVD付 / フォトブック付 — フレンドパスワード ピアノver.収録)",
+      "regCatNo": "AKCY-58075",
+      "catalog": "AKCY-58075 (フォトブック盤) / AKCY-58074/B (DVD付盤)",
+      "mbEditions": [
+        {
+          "catno": "AKCY-58075",
+          "label": "フォトブック盤"
+        },
+        {
+          "catno": "AKCY-58074",
+          "label": "アーティストDVD盤"
+        }
+      ],
+      "kana": "サ",
+      "filing": "サ (Sasaki Rico — Voice Actor / Seiyuu aisles)",
+      "price": "¥1,200–¥1,900",
+      "itunesQuery": "スタート! 佐々木李子",
+      "requiredGroups": [
+        [
+          "スタート"
+        ],
+        [
+          "佐々木李子"
+        ]
+      ],
+      "accent": "#10b981"
+    },
+    {
+      "id": "cd-46",
+      "category": "Seiyuu & Idol",
+      "artist": "Yuki Tanaka",
+      "artistJa": "田中有紀 (タナカユキ)",
+      "title": "\"Treasure Chest\" (A-Rank Party EDs)",
+      "titleJa": "Treasure Chest (TVアニメ『Aランクパーティを離脱した俺は…』ED主題歌)",
+      "regCatNo": "LACM-24691",
+      "catalog": "LACM-24691 (通常盤) / LACM-34691~34692 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "LACM-24691",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "LACM-34691",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "タ",
+      "filing": "タ (Tanaka Yuki — Voice Actor / Seiyuu aisles)",
+      "price": "¥400–¥900 (Reg) / ¥1,500–¥2,500 (Ltd)",
+      "itunesQuery": "Treasure Chest 田中有紀",
+      "requiredGroups": [
+        [
+          "treasure"
+        ],
+        [
+          "chest"
+        ],
+        [
+          "田中有紀",
+          "yuki tanaka"
+        ]
+      ],
+      "accent": "#059669"
+    },
+    {
+      "id": "cd-47",
+      "category": "J-Rock & J-Pop",
+      "artist": "L'Arc~en~Ciel",
+      "artistJa": "L'Arc~en~Ciel (ラルク アン シエル)",
+      "title": "\"DAYBREAK'S BELL\" (Mobile Suit Gundam 00 S1 OP)",
+      "titleJa": "DAYBREAK'S BELL (TVアニメ『機動戦士ガンダム00』1stシーズン OP)",
+      "regCatNo": "KSCL-1200",
+      "catalog": "KSCL-1200 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "KSCL-1200",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ラ / L",
+      "filing": "ラ (L'Arc~en~Ciel) / L / ガンダム00 (Gundam 00)",
+      "price": "¥200–¥550",
+      "itunesQuery": "DAYBREAK'S BELL L'Arc~en~Ciel",
+      "requiredGroups": [
+        [
+          "daybreak"
+        ],
+        [
+          "bell"
+        ]
+      ],
+      "accent": "#f59e0b"
+    },
+    {
+      "id": "cd-48",
+      "category": "J-Rock & J-Pop",
+      "artist": "Hikaru Utada",
+      "artistJa": "宇多田ヒカル (ウタダヒカル)",
+      "title": "Fantôme (6th Studio Album, SHM-CD)",
+      "titleJa": "Fantôme (ファントーム / 6thアルバム SHM-CD)",
+      "regCatNo": "TYCT-60101",
+      "catalog": "TYCT-60101 (通常盤 SHM-CD)",
+      "mbEditions": [
+        {
+          "catno": "TYCT-60101",
+          "label": "通常盤 Regular"
+        }
+      ],
+      "kana": "ウ",
+      "filing": "ウ (Utada Hikaru)",
+      "price": "¥500–¥1,000",
+      "itunesQuery": "Fantome 宇多田ヒカル",
+      "requiredGroups": [
+        [
+          "fantôme",
+          "fantome"
+        ],
+        [
+          "宇多田ヒカル",
+          "hikaru utada"
+        ]
+      ],
+      "accent": "#64748b"
+    },
+    {
+      "id": "cd-49",
+      "category": "J-Rock & J-Pop",
+      "artist": "school food punishment",
+      "artistJa": "school food punishment (スクール・フード・パニッシュメント)",
+      "title": "amp-reflection (1st Album)",
+      "titleJa": "amp-reflection (1stアルバム)",
+      "regCatNo": "ESCL-3417",
+      "catalog": "ESCL-3417 (通常盤) / ESCL-3414 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "ESCL-3417",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "ESCL-3414",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "S / ス",
+      "filing": "S / ス (school food punishment)",
+      "price": "¥500–¥1,000 (Reg) / ¥1,400 (Ltd)",
+      "itunesQuery": "amp-reflection school food punishment",
+      "requiredGroups": [
+        [
+          "amp-reflection"
+        ]
+      ],
+      "accent": "#0284c7"
+    },
+    {
+      "id": "cd-50",
+      "category": "J-Rock & J-Pop",
+      "artist": "school food punishment",
+      "artistJa": "school food punishment (スクール・フード・パニッシュメント)",
+      "title": "Prog-Roid (2nd Album)",
+      "titleJa": "Prog-Roid (2ndアルバム)",
+      "regCatNo": "ESCL-3709",
+      "catalog": "ESCL-3709 (通常盤) / ESCL-3707 (初回限定)",
+      "mbEditions": [
+        {
+          "catno": "ESCL-3709",
+          "label": "通常盤 Regular"
+        },
+        {
+          "catno": "ESCL-3707",
+          "label": "初回盤 Limited"
+        }
+      ],
+      "kana": "S / ス",
+      "filing": "S / ス (school food punishment)",
+      "price": "¥500–¥900 (Reg) / ¥700–¥1,200 (Ltd)",
+      "itunesQuery": "Prog-Roid school food punishment",
+      "requiredGroups": [
+        [
+          "prog-roid"
+        ]
+      ],
+      "accent": "#0369a1"
+    },
+    {
+      "id": "cd-51",
+      "category": "J-Rock & J-Pop",
+      "artist": "school food punishment",
+      "artistJa": "school food punishment (インディーズ盤)",
+      "title": "Indie Mini-Albums (school food is good food, air feel, color swim, Riff-rain)",
+      "titleJa": "インディーズ・ミニアルバム群 (school food is good food / air feel, color swim / Riff-rain)",
+      "regCatNo": "JKCA-1030",
+      "catalog": "JKCA-1030 / JKCA-1043 / FMAR-0001 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "JKCA-1030",
+          "label": "school food is good food"
+        },
+        {
+          "catno": "JKCA-1043",
+          "label": "air feel, color swim"
+        },
+        {
+          "catno": "FMAR-0001",
+          "label": "Riff-rain"
+        }
+      ],
+      "kana": "S / ス",
+      "filing": "S / ス (school food punishment)",
+      "price": "¥900–¥2,500",
+      "itunesQuery": "school food is good food school food punishment",
+      "requiredGroups": [
+        [
+          "good",
+          "air feel",
+          "riff-rain"
+        ],
+        [
+          "food",
+          "color swim",
+          "riff-rain"
+        ]
+      ],
+      "accent": "#38bdf8"
+    },
+    {
+      "id": "cd-52",
+      "category": "J-Rock & J-Pop",
+      "artist": "school food punishment",
+      "artistJa": "school food punishment (スクール・フード・パニッシュメント)",
+      "title": "Major Singles (futuristic imagination / butterfly swimmer / RPG / How to go)",
+      "titleJa": "メジャーシングル群 (futuristic imagination / butterfly swimmer / RPG / How to go)",
+      "regCatNo": "ESCL-3203",
+      "catalog": "ESCL-3203 / ESCL-3259 / ESCL-3388 / ESCL-3670 / ESCL-3783 (通常盤)",
+      "mbEditions": [
+        {
+          "catno": "ESCL-3203",
+          "label": "futuristic imagination 通常盤"
+        },
+        {
+          "catno": "ESCL-3259",
+          "label": "butterfly swimmer 通常盤"
+        },
+        {
+          "catno": "ESCL-3670",
+          "label": "RPG 通常盤"
+        },
+        {
+          "catno": "ESCL-3783",
+          "label": "How to go 通常盤"
+        }
+      ],
+      "kana": "S / ス",
+      "filing": "S / ス (school food punishment)",
+      "price": "¥110–¥800 each",
+      "itunesQuery": "futuristic imagination school food punishment",
+      "requiredGroups": [
+        [
+          "futuristic"
+        ],
+        [
+          "imagination"
+        ]
+      ],
+      "accent": "#0ea5e9"
+    },
+    {
+      "id": "dig-01",
+      "digitalOnly": true,
+      "category": "Digital-Only",
+      "artist": "Hanatan",
+      "artistJa": "花たん (ユリカ)",
+      "title": "\"gradation\" (Digital-Only Release — No Physical CD Exists)",
+      "titleJa": "gradation (配信限定リリース — 物理CD未発売)",
+      "regCatNo": "DIGITAL-ONLY",
+      "catalog": "DIGITAL-ONLY (No CD)",
+      "mbEditions": [],
+      "kana": "配信限定",
+      "filing": "Skip physical shelf hunting in Osaka — no physical CD release exists.",
+      "price": "Digital Only",
+      "itunesQuery": "gradation 花たん",
+      "requiredGroups": [
+        [
+          "gradation"
+        ],
+        [
+          "花たん",
+          "hanatan"
+        ]
+      ],
+      "accent": "#0ea5e9"
+    },
+    {
+      "id": "dig-02",
+      "digitalOnly": true,
+      "category": "Digital-Only",
+      "artist": "Rokudenashi",
+      "artistJa": "ロクデナシ (ninzin)",
+      "title": "\"ホウキボシ\" (Houkiboshi / Shooting Star) (Digital Single, Jul 15, 2026 — Written by Eve; Though I Am an Ineligible Villainess ED)",
+      "titleJa": "ホウキボシ (配信限定シングル 2026.07.15 / 作詞作曲: Eve / TVアニメ『ふつつかな悪女ではございますが』ED)",
+      "regCatNo": "DIGITAL-ONLY",
+      "catalog": "DIGITAL-ONLY (Latest CD: 六花 VICL-66106)",
+      "mbEditions": [],
+      "kana": "配信限定",
+      "filing": "Skip physical hunting for ホウキボシ (no CD yet). Physical album \"六花\" (VICL-66106) is under ロ (Ro) in J-Pop.",
+      "price": "Digital Only",
+      "itunesQuery": "ホウキボシ ロクデナシ",
+      "requiredGroups": [
+        [
+          "ホウキボシ"
+        ],
+        [
+          "ロクデナシ",
+          "rokudenashi"
+        ]
+      ],
+      "accent": "#38bdf8"
+    }
+  ]
+}
